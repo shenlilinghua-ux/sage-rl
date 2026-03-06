@@ -1,0 +1,1 @@
+python -m debugpy --listen 5678 --wait-for-client remove_cot_in_data.py
