@@ -2,11 +2,11 @@
 
 This repository contains the unoffical reproduction code for our paper: Does Your Reasoning Model Implicitly Know When to Stop Thinking?
 
-Original paper link: \url{https://arxiv.org/abs/2602.08354}
+Original paper link: https://arxiv.org/abs/2602.08354
 
-Original paper homepage: \url{https://hzx122.github.io/sage-rl/}
+Original paper homepage: https://hzx122.github.io/sage-rl/
 
-Original paper's Hugging Face page: \url{https://huggingface.co/papers/2602.08354}
+Original paper's Hugging Face page: https://huggingface.co/papers/2602.08354
 
 
 
@@ -142,6 +142,8 @@ One Case Study：
 
 ## Citation
 If you find this repository helpful, please cite the original paper:
+
+```bibtex
 @article{huang2026does,
   title={Does Your Reasoning Model Implicitly Know When to Stop Thinking?},
   author={Huang, Zixuan and Xia, Xin and Ren, Yuxi and Zheng, Jianbin and Wang, Xuanda and Zhang, Zhixia and Xie, Hongyan and Liang, Songshi and Chen, Zehao and Xiao, Xuefeng and others},
