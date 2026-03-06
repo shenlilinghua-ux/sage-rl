@@ -1,8 +1,16 @@
 # Does Your Reasoning Model Implicitly Know When to Stop Thinking?
 
-This repository contains the code  for our paper: Does Your Reasoning Model Implicitly Know When to Stop Thinking?
+This repository contains the unoffical reproduction code for our paper: Does Your Reasoning Model Implicitly Know When to Stop Thinking?
 
-Our method consists of two components: SAGE and SAGE-RL.
+Original paper link: \url{https://arxiv.org/abs/2602.08354}
+
+Original paper homepage: \url{https://hzx122.github.io/sage-rl/}
+
+Original paper's Hugging Face page: \url{https://huggingface.co/papers/2602.08354}
+
+
+
+The reproduction code consists of two components: SAGE and SAGE-RL.
 
 For SAGE, we have rewritten vllm (https://github.com/vllm-project/vllm). The core code is located in `verl/workers/rollout/vllm_rollout/llm.py`, which contains the implementation of TSearch, SAGE, and its variants.
 
@@ -131,5 +139,18 @@ One Case Study：
         trainer.validation_data_dir=/path/to/$project_name/$experiment_name/val_outputs \
         trainer.default_local_dir=/path/tp/$project_name/$experiment_name 
 
-    
+
+## Citation
+If you find this repository helpful, please cite the original paper:
+@article{huang2026does,
+  title={Does Your Reasoning Model Implicitly Know When to Stop Thinking?},
+  author={Huang, Zixuan and Xia, Xin and Ren, Yuxi and Zheng, Jianbin and Wang, Xuanda and Zhang, Zhixia and Xie, Hongyan and Liang, Songshi and Chen, Zehao and Xiao, Xuefeng and others},
+  journal={arXiv preprint arXiv:2602.08354},
+  year={2026}
+}
+
+
+
+
+
 
