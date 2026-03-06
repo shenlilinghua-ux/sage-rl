@@ -1,6 +1,6 @@
 # Does Your Reasoning Model Implicitly Know When to Stop Thinking?
 
-This repository contains the unoffical reproduction code for our paper: Does Your Reasoning Model Implicitly Know When to Stop Thinking?
+This repository contains the unoffical reproduction code for the paper: Does Your Reasoning Model Implicitly Know When to Stop Thinking?
 
 Original paper link: https://arxiv.org/abs/2602.08354
 
