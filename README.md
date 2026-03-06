@@ -19,7 +19,7 @@ For SAGE-RL, we implemented it based on verl (https://github.com/verl-project/ve
 
 ## Tips for Running SAGE-RL
 
-Given the various inquiries about SAGE-RL, we provide a list of tips to help you reproduce our paper results and achieve better outcomes for running SAGE-RL on your own tasks. 
+Given the various inquiries about SAGE-RL, we provide a list of tips to help you reproduce the paper results and achieve better outcomes for running SAGE-RL on your own tasks. 
 
 ### Environment
 
